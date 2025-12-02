@@ -1,8 +1,8 @@
 # Privacy Policy for BerkahPOS
 
-**Last updated:** [Tanggal Hari Ini, misal: December 2, 2025]
+**Last updated:** December 2, 2025
 
-This Privacy Policy describes how **[Nama Anda]** ("we", "us", or "our") collects, uses, and discloses your information in connection with your use of our application, **BerkahPOS** (the "App").
+This Privacy Policy describes how **Hen** ("we", "us", or "our") collects, uses, and discloses your information in connection with your use of our application, **BerkahPOS** (the "App").
 
 ## 1. Information Collection and Use
 
